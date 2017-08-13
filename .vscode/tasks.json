@@ -5,7 +5,7 @@
     "tasks": [
         {
             "taskName": "Hello",
-            "command": "C:/Anaconda3/envs/myfalskapp/python hello.py runserver",
+            "command": "C:/Users/WinterIsComing/.conda/envs/myflaskapp/python hello.py runserver",
             "type": "shell"
         }
     ]
